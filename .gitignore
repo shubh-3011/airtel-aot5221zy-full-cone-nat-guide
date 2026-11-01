@@ -1,0 +1,8 @@
+# Router backups, credentials, and local diagnostic artifacts must not be committed.
+*.cfg
+*.xml
+*.env
+.env
+*.pcap
+*.pcapng
+__pycache__/
